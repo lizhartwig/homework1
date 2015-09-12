@@ -17,7 +17,7 @@ This web page will allow you to find out more about me. It will include informat
  
  1. Open a web browser
  2. Enter this url in the web browser: https://github.com/lizhartwig/homework1
- 3. In Branch: master, you will have access to all files uploaded to homework1 repository.
+ 3. In Branch: gh-pages, you will have access to all files uploaded to homework1 repository.
  
 To see the finished web page:
  
